@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShabanSaleem
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html & css
+- 👀 I’m interested in app development.
+- 🌱 I’m currently learning java & dart.
 - 📫 How to reach me shabansaleem2@gmail.com
 
 <!---
